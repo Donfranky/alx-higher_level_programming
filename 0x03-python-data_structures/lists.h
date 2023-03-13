@@ -23,5 +23,6 @@ def print_matrix_integer(matrix=[[]]):
 def add_tuple(tuple_a=(), tuple_b=()):
 def multiple_returns(sentence):
 def max_integer(my_list=[]):
+int is_palindrome(listint_t **head);
 
 #endif /* LISTS_H */
